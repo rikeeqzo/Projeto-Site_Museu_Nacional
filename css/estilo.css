@@ -88,6 +88,11 @@ h4 {
     margin-bottom: 0;
 }
 
+section#galeria a {
+    display: block;
+    background: url(../imagens/fundo-foto.png) no-repeat;
+}
+
 /* Formulários */
 
 input {
