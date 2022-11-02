@@ -81,6 +81,23 @@ section#visita {
     margin-top: 10px;
 }
 
+section#galeria {
+    padding: 0 27px 0 27px;
+}
+
+section#galeria a {
+    display: block;
+    background: url(../imagens/fundo-foto.png) no-repeat;
+    float: left;
+    padding: 17px 15px 17px 15px;
+    margin: 10px 0 0 20px;
+}
+
+section#galeria img {
+    margin-left: 2px;
+    margin-top: 3px;
+}
+
 h4 {
     color: #86521a;
     text-transform: uppercase;
@@ -88,10 +105,6 @@ h4 {
     margin-bottom: 0;
 }
 
-section#galeria a {
-    display: block;
-    background: url(../imagens/fundo-foto.png) no-repeat;
-}
 
 /* Formulários */
 
